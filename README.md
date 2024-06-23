@@ -1,4 +1,4 @@
-<h1 aling="center">👋 Hi, I'm Shino </h1>
+<h1 align="center">👋 Hi, I'm Shino </h1>
 - 👀 I'm interested in the CyberSecurity and the Machine Learning
 - 🌱 I’m currently learning ...
 - 📫 How to reach me ... encinas.sigfrido.cbtis37@gmail.com 
